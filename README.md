@@ -8,7 +8,7 @@ Network Traffic Capture & Analysis: Using tcpdump, Wireshark, and Security Onion
 Forensic Investigation: Analyzing logs, timestamps, and deleted files using forensic tools.
 Threat Intelligence & Alerting: Leveraging Suricata IDS and Security Onion for attack detection and incident response.
 
-2. Tools Used
+2.Tools Used
 Your project involves several penetration testing and forensic analysis tools, including:
 
 Reconnaissance & Scanning
@@ -29,7 +29,7 @@ Forensic Investigation & Log Analysis
 Autopsy, FTK, or TheHive – Possible forensic tools for analyzing system artifacts.
 Kibana – For visualizing attack data.
 
-3. Cybersecurity Significance
+3.Cybersecurity Significance
 From a cybersecurity perspective, your project highlights:
 
 ✅ Attack Simulation & Ethical Hacking
